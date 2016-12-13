@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.fkdiogo.iml" filepath="$PROJECT_DIR$/.idea/modules/com.fkdiogo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.fkdiogo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.fkdiogo_main.iml" group="com.fkdiogo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.fkdiogo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.fkdiogo_test.iml" group="com.fkdiogo" />
+    </modules>
+  </component>
+</project>
