@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.camel:camel-stream:2.18.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.camel/camel-stream/2.18.1/8429a8645da67739b6a860b8528e0f0f32cb9db3/camel-stream-2.18.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.camel/camel-stream/2.18.1/b7fe53cd36a9409ab6dea817cbc130864b0e77dc/camel-stream-2.18.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
