@@ -27,7 +27,6 @@ jar {
     version = '1.0.0-SNAPSHOT'
 }
 
-camelVersion = '2.18.1'
 
 dependencies {
     compile("org.springframework.boot:spring-boot-starter-thymeleaf")
@@ -35,9 +34,9 @@ dependencies {
     testCompile("junit:junit")
     testCompile("org.springframework.boot:spring-boot-starter-test")
     testCompile("org.springframework.security:spring-security-test")
-    compile group: 'org.apache.camel', name: 'camel-core', version:+camelVersion
-    compile group: 'org.apache.camel', name: 'camel-spring', version:+camelVersion
-    compile group: 'org.apache.camel', name: 'camel-stream', version:+camelVersion
-    compile group: 'org.springframework', name: 'spring-context', version: '5.0.0.M3'
+    compile group: 'org.apache.camel', name: 'camel-core', version: '2.18.1'
+    compile group: 'org.apache.camel', name: 'camel-spring', version: '2.18.1'
+    compile group: 'org.apache.camel', name: 'camel-stream', version: '2.18.1'
+    compile group: 'org.springframework', name: 'spring-context', version: '4.3.4.RELEASE'
 
 }
