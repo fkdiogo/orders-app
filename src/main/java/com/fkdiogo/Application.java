@@ -1,10 +1,14 @@
 package com.fkdiogo;
 
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
 /**
  * Created by felipediogo on 09/12/16.
  */
+@SpringBootApplication
 public class Application {
     public static void main(String[] args) {
-
+        SpringApplication.run(Application.class, args);
     }
 }
